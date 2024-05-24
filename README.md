@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,Everyone This side Anjali !! 😎</h1>
+<h1 align="center">Hi 👋Everyone, This side Anjali !! 😎</h1>
 <h3 align="center">I am a 3rd Year B.Tech (IT) student at KIIT, Bhubaneswar</h3>
 
 <img align="right" alt="girl" width="400" src ="https://img.freepik.com/premium-vector/online-learning-concept-with-cartoon-character_29937-6229.jpg?w=740">
