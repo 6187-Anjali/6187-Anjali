@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋Everyone, This side Anjali !! 😎</h1>
-<h3 align="center">I am a 3rd Year B.Tech (IT) student at KIIT, Bhubaneswar</h3>
+<h3 align="center">I am a final Year B.Tech (IT) student at KIIT, Bhubaneswar</h3>
 
 <img align="right" alt="girl" width="400" src ="https://img.freepik.com/premium-vector/online-learning-concept-with-cartoon-character_29937-6229.jpg?w=740">
 
@@ -8,6 +8,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+- 😄 Pronouns: She/Her
 <p>- 🌱 I’m currently learning  and exploring field of AI-ML </p>
 
 
@@ -28,7 +29,7 @@
 
 <-------------------------------------------------------------------------------------------------------------------------->
 <h3 align="center">DAY BY DAY , LITTLE BY LITTLE, WILL SURLY MAKE IT !</h3>
-<img align="center" alt= "cycle" src="https://i.pinimg.com/564x/26/4d/fc/264dfc7720095daf0e3fca1db6e669a8.jpg">
+<img align="centre" alt= "cycle" src="https://i.pinimg.com/564x/26/4d/fc/264dfc7720095daf0e3fca1db6e669a8.jpg">
 
 <!--
 **6187-Anjali/6187-Anjali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
