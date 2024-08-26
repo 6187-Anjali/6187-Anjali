@@ -3,13 +3,13 @@
 
 <img align="right" alt="girl" width="400" src ="https://img.freepik.com/premium-vector/online-learning-concept-with-cartoon-character_29937-6229.jpg?w=740">
 
-- 📫 How to reach me **akt.anjali15@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- - 🔭 I’m currently working on enhancing my Tech skills 
+- 🌱 I’m currently learning Machine Learning exploring field of AI-ML
+- 👯 I’m looking to collaborate on projects which can solve real world problems
+- 💬 Ask me about diverse field of technology
+- 📫 How to reach me: 📧 akt.anjali15@gmail.com  🔎 https://www.linkedin.com/in/anjali-kumari-b35315221/ 
 - 😄 Pronouns: She/Her
-<p>- 🌱 I’m currently learning  and exploring field of AI-ML </p>
+- ⚡ Fun fact: I'm a military brat who grew up in different parts of India(so it's difficult for me to sometimes answer "from where do I belong?"😂). 
 
 
 <h3 align="left">Connect with me:</h3>
