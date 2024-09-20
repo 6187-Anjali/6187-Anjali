@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning Machine Learning exploring field of AI-ML
 - 👯 I’m looking to collaborate on projects which can solve real world problems
 - 💬 Ask me about diverse field of technology
-- 📫 How to reach me: 📧 akt.anjali15@gmail.com  🔎 https://www.linkedin.com/in/anjali-kumari-b35315221/ 
+- 📫 How to reach me: 📧 akt.anjali15@gmail.com
+- 🔎 https://www.linkedin.com/in/anjali-kumari-b35315221/ 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a military brat who grew up in different parts of India(so it's difficult for me to sometimes answer "from where do I belong?"😂). 
 
