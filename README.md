@@ -10,6 +10,7 @@
 - 📫 How to reach me: 📧 akt.anjali15@gmail.com
 - 🔎 https://www.linkedin.com/in/anjali-kumari-b35315221/ 
 - 😄 Pronouns: She/Her
+- ✨ Apart from Tech: I am an avid cartoonist and like writing poems in hindi.
 - ⚡ Fun fact: I'm a military brat who grew up in different parts of India(so it's difficult for me to sometimes answer "from where do I belong?"😂). 
 
 
