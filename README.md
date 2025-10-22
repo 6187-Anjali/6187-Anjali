@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋Everyone, This side Anjali !! 😎</h1>
-<h3 align="center">I am currently working as a Programmer Analyst Trainee @ Cognizant</h3>
+<!-- <h3 align="center">I am currently working as a Programmer Analyst Trainee @ Cognizant</h3> -->
 
 <img align="right" alt="girl" width="400" src ="https://img.freepik.com/premium-vector/online-learning-concept-with-cartoon-character_29937-6229.jpg?w=740">
 
