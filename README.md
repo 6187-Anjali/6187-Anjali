@@ -3,7 +3,7 @@
 
 <img align="right" alt="girl" width="400" src ="https://img.freepik.com/premium-vector/online-learning-concept-with-cartoon-character_29937-6229.jpg?w=740">
 
-- - 🔭 I’m currently working on enhancing my Tech skills 
+- - 🔭 I’m currently working in AI & Analytics Domain
 - 🌱 I’m currently learning Machine Learning exploring field of AI-ML
 - 👯 I’m looking to collaborate on projects which can solve real world problems
 - 💬 Ask me about diverse field of technology
